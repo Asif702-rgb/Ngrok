@@ -1,4 +1,4 @@
-name: Ngrok RDP
+name: RDP-FROM-GITHUB 
 on: [push]
 jobs:
   deploy:
