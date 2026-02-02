@@ -1,6 +1,0 @@
-authtoken: ${{ secrets.NGROK_AUTH_TOKEN }}
-region: in # India region
-tunnels:
-  rdp:
-    proto: tcp
-    addr: 3389 # RDP port
